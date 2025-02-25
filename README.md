@@ -89,11 +89,11 @@ O **Bootcamp de Data Science** é um programa intensivo projetado para ensinar o
 ## Como Usar Este Repositório
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/bootcamp-tripleten-ds.git
+   git clone https://github.com/seu-usuario/Bootcamp.git
    ```
 2. Navegue até a pasta do projeto:
    ```bash
-   cd bootcamp-tripleten-ds
+   cd Bootcamp
    ```
 3. Instale as dependências necessárias:
    ```bash
@@ -108,4 +108,3 @@ Caso tenha alguma dúvida ou sugestão, entre em contato:
 
 ---
 Este README foi criado para documentar a jornada no Bootcamp **TripleTen - Data Science** e compartilhar conhecimentos adquiridos. 🚀
-
