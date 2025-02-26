@@ -89,7 +89,7 @@ O **Bootcamp de Data Science** é um programa intensivo projetado para ensinar o
 ## Como Usar Este Repositório
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/Bootcamp.git
+   git clone https://github.com/Ariel-Marques23/Bootcamp.git
    ```
 2. Navegue até a pasta do projeto:
    ```bash
