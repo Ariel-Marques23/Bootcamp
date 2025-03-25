@@ -4,20 +4,20 @@
 O **Bootcamp de Data Science** é um programa intensivo projetado para ensinar os principais conceitos da área, incluindo **análise de dados, estatística, aprendizado de máquina e programação em Python**. O foco está na prática, com projetos e desafios que preparam os participantes para o mercado de trabalho.
 
 ## Conteúdo do Bootcamp
-### **Sprint 01: Fundamentos de Python**
+### **1 - Fundamentos Python**
 #### Objetivos:
 - Imprimir texto na tela e manipular variáveis
 - Executar operações matemáticas
 - Compreender listas e utilizar loops
 - Definir condições para controle de fluxo no código
 
-### **Sprint 02: Estruturas Avançadas em Python**
+### **2 - Estruturas Avançadas em Python**
 #### Objetivos:
 - Trabalhar com dicionários para armazenar informações
 - Criar e utilizar funções reutilizáveis
 - Explorar a biblioteca **Pandas** para manipulação de dados
 
-### **Sprint 03: Manipulação de Dados**
+### **3 - Manipulação de Dados**
 #### Objetivos:
 - Leitura e processamento avançado de dados
 - Identificação e tratamento de dados ausentes ou duplicados
@@ -25,7 +25,7 @@ O **Bootcamp de Data Science** é um programa intensivo projetado para ensinar o
 - Criação de novas colunas a partir de dados brutos
 - Agrupamento e junção de tabelas
 
-### **Sprint 04: Análise Estatística**
+### **4 - Análise Estatística**
 #### Objetivos:
 - Trabalhar com variáveis contínuas e discretas
 - Construir histogramas para análise de distribuição
@@ -33,24 +33,24 @@ O **Bootcamp de Data Science** é um programa intensivo projetado para ensinar o
 - Compreender distribuições normal e binomial
 - Formular e testar hipóteses
 
-### **Sprint 06: Projeto Integrado**
+### **5 - Projeto Integrado**
 #### Objetivos:
 - Aplicar os conhecimentos adquiridos ao longo das sprints anteriores em um projeto real
 
-### **Sprint 08: Introdução ao Aprendizado de Máquina**
+### **6 - Introdução ao Aprendizado de Máquina**
 #### Objetivos:
 - Entender os conceitos básicos de aprendizado de máquina
 - Diferenciar classificação e regressão
 - Utilizar a biblioteca **scikit-learn** para treinar modelos
 - Avaliar modelos com métricas adequadas
 
-### **Sprint 09: Aprendizado Supervisionado**
+### **7 - Aprendizado Supervisionado**
 #### Objetivos:
 - Avaliar modelos de classificação com métricas como **precisão, sensibilidade, F1-score e AUC-ROC**
 - Lidar com desequilíbrio de classes
 - Trabalhar com novas métricas de regressão: **EAM e R²**
 
-### **Sprint 10: Aprendizado de Máquina para Negócios**
+### **8 - Aprendizado de Máquina para Negócios**
 #### Objetivos:
 - Relacionar métricas de negócio com aprendizado de máquina
 - Utilizar **Bootstrapping** e interpretar testes A/B
